@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prokit\'s Addons</string>
+    <string name="dc_on">Dc Dimming is turned ON</string>
+    <string name="dc_off">Dc Dimming is turned OFF</string>
+    <string name="flash_on">Flashlight is turned ON</string>
+    <string name="flash_off">Flashlight is turned OFF</string>
+    <string name="hbm_on">HBM is turned ON</string>
+    <string name="hbm_off">HBM is turned OFF</string>
+</resources>
